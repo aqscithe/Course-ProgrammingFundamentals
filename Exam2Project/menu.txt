@@ -1,0 +1,14 @@
+Broccoli
+2.00
+Carrots
+1.00
+Cauliflowers
+3.00
+Asparagus
+1.00
+Jalapenos
+1.00
+Kiwi
+1.00
+Grapefruits
+1.00

@@ -1,0 +1,4 @@
+﻿  project5.cpp
+C:\Dev\Cpp\COSC1337\Project5\project5.cpp(202,29): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Dev\Cpp\COSC1337\Project5\project5.cpp(230,28): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Project5.vcxproj -> C:\Dev\Cpp\COSC1337\Project5\x64\Debug\Project5.exe

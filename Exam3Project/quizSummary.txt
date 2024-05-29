@@ -1,0 +1,147 @@
+Quiz 1
+--------------------------------------------
+Question 1
+	English word: hello
+	Your answer: bonjour
+	Correct answer: bonjour
+---------------------------------------------
+
+Question 2
+	English word: wall
+	Your answer: mur
+	Correct answer: mur
+---------------------------------------------
+
+Question 3
+	English word: fire
+	Your answer: feu
+	Correct answer: feu
+---------------------------------------------
+
+Question 4
+	English word: computer
+	Your answer: ordinateur
+	Correct answer: ordinateur
+---------------------------------------------
+
+--------------------------------------------
+Quiz Summary 
+--------------------------------------------
+Name: Leon
+	Question Count: 4
+	Correct Answers: 4
+	Grade: 100%
+--------------------------------------------
+
+Quiz 2
+--------------------------------------------
+Question 1
+	English word: hello
+	Your answer: bonjour
+	Correct answer: bonjour
+---------------------------------------------
+
+Question 2
+	English word: fire
+	Your answer: feu
+	Correct answer: feu
+---------------------------------------------
+
+Question 3
+	English word: wall
+	Your answer: mur
+	Correct answer: mur
+---------------------------------------------
+
+Question 4
+	English word: water
+	Your answer: eau
+	Correct answer: eau
+---------------------------------------------
+
+Question 5
+	English word: computer
+	Your answer: ordinateur
+	Correct answer: ordinateur
+---------------------------------------------
+
+--------------------------------------------
+Quiz Summary 
+--------------------------------------------
+Name: Leon
+	Question Count: 5
+	Correct Answers: 5
+	Grade: 100%
+--------------------------------------------
+
+Quiz 3
+--------------------------------------------
+Question 1
+	English word: tall
+	Your answer: grand
+	Correct answer: grand
+---------------------------------------------
+
+Question 2
+	English word: to bet
+	Your answer: parier
+	Correct answer: parier
+---------------------------------------------
+
+Question 3
+	English word: water
+	Your answer: eau
+	Correct answer: eau
+---------------------------------------------
+
+Question 4
+	English word: wall
+	Your answer: mur
+	Correct answer: mur
+---------------------------------------------
+
+Question 5
+	English word: fire
+	Your answer: feu
+	Correct answer: feu
+---------------------------------------------
+
+Question 6
+	English word: to sleep
+	Your answer: dormir
+	Correct answer: dormir
+---------------------------------------------
+
+Question 7
+	English word: computer
+	Your answer: ordinateur
+	Correct answer: ordinateur
+---------------------------------------------
+
+Question 8
+	English word: hello
+	Your answer: bonjour
+	Correct answer: bonjour
+---------------------------------------------
+
+--------------------------------------------
+Quiz Summary 
+--------------------------------------------
+Name: Leon
+	Question Count: 8
+	Correct Answers: 8
+	Grade: 100%
+--------------------------------------------
+
+
+----------------------------------------------------------------
+Overall Quiz Attempts Summary
+----------------------------------------------------------------
+	Student Name: Leon
+
+	Quiz Info
+		Attempted 3
+		Passed 3
+		Failed 0
+		Highest 100%
+----------------------------------------------------------------

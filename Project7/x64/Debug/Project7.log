@@ -1,0 +1,3 @@
+﻿  project7.cpp
+C:\Dev\Cpp\COSC1337\Project7\project7.cpp(158): warning C4715: 'Date::IsValidDate' : les chemins de contrôle ne retournent pas tous une valeur
+  Project7.vcxproj -> C:\Dev\Cpp\COSC1337\Project7\x64\Debug\Project7.exe

@@ -1,0 +1,22 @@
+hello|bonjour
+fire|feu
+computer|ordinateur
+wall|mur
+water|eau
+to sleep|dormir
+to bet|parier
+tall|grand
+fear|peur
+green|vert
+wind|vent
+to take|prendre
+tiger|tigre
+fox|renard
+eyes|yeux
+day|jour
+year|an
+ham|jambon
+door|porte
+yogurt|yaourt
+screen|ecran
+weapon|arme
